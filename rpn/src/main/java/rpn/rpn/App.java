@@ -99,7 +99,7 @@ public class App
 				}
 			}
 			catch(java.util.EmptyStackException e) {
-				System.out.println("Erreur : l'expression passée en paramètre est incorrect; un opérateur n'a pas ou pas assez d'opérandes.");
+				System.out.println("Erreur : l'expression passée en paramètre est incorrecte; un opérateur n'a pas ou pas assez d'opérandes.");
 			}
 
 		}
